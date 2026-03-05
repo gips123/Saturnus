@@ -18,12 +18,12 @@ const STEP_ZOOM = 0.5;
 
 // Static photos — just put your image files in public/photos/
 const STATIC_PHOTOS = [
-  '/photos/photo1.svg',
-  '/photos/photo2.svg',
-  '/photos/photo3.svg',
-  '/photos/photo4.svg',
-  '/photos/photo5.svg',
-  '/photos/photo6.svg',
+  '/photos/photo1.jpg',
+  '/photos/photo2.jpg',
+  '/photos/photo3.jpg',
+  '/photos/photo4.jpg',
+  '/photos/photo5.jpg',
+  '/photos/photo6.jpg',
 ];
 
 export default function Home() {
